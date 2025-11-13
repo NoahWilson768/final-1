@@ -1,0 +1,16 @@
+Metrics for _shenzhen_h40_theta45
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001152
+Maximum Curvature: 0.010529
+Smoothness Index: 0.998848
+Average Safety Margin: 206.1136
+Minimum Safety Margin: 13.2599
+Number of Corridors: 53
+Total Length: 79572.61
+Average Width: 36.10
+Path Efficiency Ratio: 1.057731
+Computation Time: 3652.23
+
+============================================================

@@ -1,0 +1,27 @@
+# 张量消融实验结果 - mode=full, N=250
+Mode: full
+Grid_N: 250
+Grid_Points: 251x251
+
+# 张量参数
+Use_Anisotropic: True
+cond_D_max: 46.499999
+cond_D_mean: 2.704035
+Num_Obstacles: 2500
+
+# 求解器指标
+Computation_Time: 1919.093581
+
+# 走廊指标
+Number of Corridors: 61
+Maximum Curvature: 7.652628
+Average Curvature: 0.657852
+Path Efficiency Ratio: 1.007173
+Coverage Rate: 1.000000
+Smoothness Index: 0.342148
+
+# 速度场统计
+u_mean: 9.907206e-01
+v_mean: 9.193555e-02
+u_max: 1.704657e+00
+v_max: 1.183221e+00

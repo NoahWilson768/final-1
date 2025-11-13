@@ -1,0 +1,16 @@
+Metrics for _beijing_h40_theta45
+============================================================
+
+Coverage Rate: 0.300000
+Average Curvature: 0.002132
+Maximum Curvature: 0.004595
+Smoothness Index: 0.997868
+Average Safety Margin: 104.9610
+Minimum Safety Margin: 20.3580
+Number of Corridors: 6
+Total Length: 5672.93
+Average Width: 68.32
+Path Efficiency Ratio: 1.175383
+Computation Time: 4093.45
+
+============================================================

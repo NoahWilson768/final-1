@@ -1,0 +1,22 @@
+# 散度收敛测试结果 - N=250
+Grid_N: 250
+Grid_Points: 251x251
+dx: 4.000000e-03
+dy: 4.000000e-03
+dt_used: 1.000000e-02
+nu_base: 1.000000e-06
+
+# 散度测试结果
+L2_div_initial: 4.024814e-04
+L2_div_initial_norm: 1.006203e-01
+Linf_div_initial: 4.931064e-01
+L2_div_final: 2.646262e-04
+L2_div_final_norm: 6.615655e-02
+Linf_div_final: 2.904451e-01
+L2_div_ratio: 6.574868e-01
+Linf_div_ratio: 5.890110e-01
+
+# 投影效果
+# 测试方法：设置非散度自由初场 → nt=1步IMEX推进 → 测量散度消除效果
+# L2散度减少倍数: 1.52×
+# L∞散度减少倍数: 1.70×

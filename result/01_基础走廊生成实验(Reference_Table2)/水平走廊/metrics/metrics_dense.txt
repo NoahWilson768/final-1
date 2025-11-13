@@ -1,0 +1,16 @@
+Metrics for _dense
+============================================================
+
+Coverage Rate: 0.200000
+Average Curvature: 0.000596
+Maximum Curvature: 0.001359
+Smoothness Index: 0.999404
+Average Safety Margin: 214.8093
+Minimum Safety Margin: 39.1047
+Number of Corridors: 4
+Total Length: 10222.66
+Average Width: 268.42
+Path Efficiency Ratio: 1.094516
+Computation Time: 361.52
+
+============================================================

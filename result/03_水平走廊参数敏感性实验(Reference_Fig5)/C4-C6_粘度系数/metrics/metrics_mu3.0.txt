@@ -1,0 +1,16 @@
+Metrics for _mu3.0
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001061
+Maximum Curvature: 0.008896
+Smoothness Index: 0.998939
+Average Safety Margin: 163.7077
+Minimum Safety Margin: 17.9755
+Number of Corridors: 21
+Total Length: 51281.76
+Average Width: 118.29
+Path Efficiency Ratio: 1.035455
+Computation Time: 104.98
+
+============================================================

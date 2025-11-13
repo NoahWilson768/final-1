@@ -1,0 +1,16 @@
+Metrics for _N100
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001895
+Maximum Curvature: 0.025946
+Smoothness Index: 0.998105
+Average Safety Margin: 159.5001
+Minimum Safety Margin: 17.4934
+Number of Corridors: 21
+Total Length: 55695.13
+Average Width: 116.57
+Path Efficiency Ratio: 1.046106
+Computation Time: 23.44
+
+============================================================

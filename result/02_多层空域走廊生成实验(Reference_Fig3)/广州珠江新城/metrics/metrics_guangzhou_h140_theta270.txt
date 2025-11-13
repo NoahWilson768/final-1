@@ -1,0 +1,16 @@
+Metrics for _guangzhou_h140_theta270
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000080
+Maximum Curvature: 0.000520
+Smoothness Index: 0.999920
+Average Safety Margin: 916.8181
+Minimum Safety Margin: 36.4536
+Number of Corridors: 34
+Total Length: 91435.05
+Average Width: 12.78
+Path Efficiency Ratio: 1.001051
+Computation Time: 1341.58
+
+============================================================

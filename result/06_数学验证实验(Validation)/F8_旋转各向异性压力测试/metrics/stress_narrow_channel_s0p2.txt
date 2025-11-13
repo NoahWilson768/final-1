@@ -1,0 +1,12 @@
+case: narrow_channel
+adapt_dt_safety: 0.2
+dt_initial: 1.000000e-04
+dt_final: 3.333333e-06
+status: stable
+num_corridors: 12
+max_curvature: 17.244249500654295
+avg_curvature: 1.2358582391452206
+path_efficiency: 1.0581368242641516
+min_clearance: 0.008635283219363006
+avg_clearance: 0.12273443931281847
+elapsed: 18.9339

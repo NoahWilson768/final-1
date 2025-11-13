@@ -1,0 +1,16 @@
+Metrics for _nowind
+============================================================
+
+Coverage Rate: 0.200000
+Average Curvature: 0.000597
+Maximum Curvature: 0.001363
+Smoothness Index: 0.999403
+Average Safety Margin: 214.9777
+Minimum Safety Margin: 40.2445
+Number of Corridors: 4
+Total Length: 10228.54
+Average Width: 268.70
+Path Efficiency Ratio: 1.094845
+Computation Time: 361.73
+
+============================================================

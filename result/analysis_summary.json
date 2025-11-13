@@ -1,0 +1,97 @@
+{
+  "empty_folders": [
+    "07_综合分析报告(Comprehensive_Report)"
+  ],
+  "data_summary": {
+    "A_水平走廊": {
+      "metrics": 6,
+      "figures": 6
+    },
+    "A_垂直走廊": {
+      "metrics": 6,
+      "figures": 3
+    },
+    "B_北京CBD": {
+      "metrics": 6,
+      "figures": 6
+    },
+    "B_上海陆家嘴": {
+      "metrics": 6,
+      "figures": 6
+    },
+    "B_广州珠江新城": {
+      "metrics": 6,
+      "figures": 6
+    },
+    "B_深圳福田": {
+      "metrics": 6,
+      "figures": 6
+    },
+    "C_C10-C11_安全边界": {
+      "metrics": 2,
+      "figures": 2
+    },
+    "C_C1-C3_网格分辨率": {
+      "metrics": 3,
+      "figures": 3
+    },
+    "C_C12_B样条平滑": {
+      "metrics": 1,
+      "figures": 1
+    },
+    "C_C4-C6_粘度系数": {
+      "metrics": 3,
+      "figures": 3
+    },
+    "C_C7-C9_Poisson迭代": {
+      "metrics": 3,
+      "figures": 3
+    },
+    "D_D1-D9_网格分辨率矩阵": {
+      "metrics": 18,
+      "figures": 9
+    },
+    "D_D10-D12_综合优化对比": {
+      "metrics": 6,
+      "figures": 3
+    },
+    "E_Ablation": {
+      "metrics": 8,
+      "figures": 8
+    },
+    "F_F1_稳定域热图": {
+      "metrics": 1,
+      "figures": 2
+    },
+    "F_F2_条件数消融": {
+      "metrics": 1,
+      "figures": 1
+    },
+    "F_F3_散度验证": {
+      "metrics": 14,
+      "figures": 4
+    },
+    "F_F4_能量守恒": {
+      "metrics": 14,
+      "figures": 2
+    },
+    "F_F5_边界一致性": {
+      "metrics": 12,
+      "figures": 1
+    },
+    "F_F6_张量消融": {
+      "metrics": 15,
+      "figures": 2
+    },
+    "F_F7_CFL自适应压力测试": {
+      "metrics": 13,
+      "figures": 1
+    },
+    "F_F8_旋转各向异性压力测试": {
+      "metrics": 1,
+      "figures": 1
+    }
+  },
+  "anomalies": [],
+  "quality_ratings": {}
+}

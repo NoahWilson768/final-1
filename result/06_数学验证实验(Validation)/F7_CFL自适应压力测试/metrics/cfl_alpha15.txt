@@ -1,0 +1,8 @@
+# CFL自适应压力测试 - alpha_obs=15
+alpha_obs: 15.00
+cond_D_max: 151.999988
+dt_initial: 2.000000e-03
+expected_scaling: 0.328947
+dt_final: 1.644737e-05
+dt_scaling_actual: 0.008224
+Solver_Success: True

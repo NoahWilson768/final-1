@@ -1,0 +1,16 @@
+Metrics for _shenzhen_h60_theta90
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001536
+Maximum Curvature: 0.225379
+Smoothness Index: 0.998464
+Average Safety Margin: 236.1784
+Minimum Safety Margin: 13.7408
+Number of Corridors: 74
+Total Length: 105079.05
+Average Width: 22.72
+Path Efficiency Ratio: 1.076165
+Computation Time: 3658.49
+
+============================================================

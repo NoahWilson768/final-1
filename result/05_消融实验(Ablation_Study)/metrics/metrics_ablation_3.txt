@@ -1,0 +1,16 @@
+Metrics for _ablation_3
+============================================================
+
+Coverage Rate: 0.800000
+Average Curvature: 0.001504
+Maximum Curvature: 0.014034
+Smoothness Index: 0.998496
+Average Safety Margin: 161.9887
+Minimum Safety Margin: 16.3255
+Number of Corridors: 16
+Total Length: 42376.77
+Average Width: 155.89
+Path Efficiency Ratio: 1.044420
+Computation Time: 68.60
+
+============================================================

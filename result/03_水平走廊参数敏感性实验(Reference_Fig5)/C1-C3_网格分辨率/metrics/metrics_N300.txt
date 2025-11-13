@@ -1,0 +1,16 @@
+Metrics for _N300
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001650
+Maximum Curvature: 0.029586
+Smoothness Index: 0.998350
+Average Safety Margin: 144.0356
+Minimum Safety Margin: 6.2638
+Number of Corridors: 61
+Total Length: 144365.45
+Average Width: 40.04
+Path Efficiency Ratio: 1.017703
+Computation Time: 170.73
+
+============================================================

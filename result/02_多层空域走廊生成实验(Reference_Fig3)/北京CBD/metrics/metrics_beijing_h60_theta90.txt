@@ -1,0 +1,16 @@
+Metrics for _beijing_h60_theta90
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001255
+Maximum Curvature: 0.005435
+Smoothness Index: 0.998745
+Average Safety Margin: 155.2340
+Minimum Safety Margin: 17.2263
+Number of Corridors: 22
+Total Length: 24497.18
+Average Width: 80.46
+Path Efficiency Ratio: 1.065443
+Computation Time: 4108.90
+
+============================================================

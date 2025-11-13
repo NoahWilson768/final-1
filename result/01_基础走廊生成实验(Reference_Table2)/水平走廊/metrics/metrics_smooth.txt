@@ -1,0 +1,16 @@
+Metrics for _smooth
+============================================================
+
+Coverage Rate: 0.350000
+Average Curvature: 0.000557
+Maximum Curvature: 0.001449
+Smoothness Index: 0.999443
+Average Safety Margin: 189.3372
+Minimum Safety Margin: 14.0328
+Number of Corridors: 7
+Total Length: 18266.89
+Average Width: 252.58
+Path Efficiency Ratio: 1.099877
+Computation Time: 531.45
+
+============================================================

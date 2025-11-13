@@ -1,0 +1,16 @@
+Metrics for _mu1.0
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001216
+Maximum Curvature: 0.009867
+Smoothness Index: 0.998784
+Average Safety Margin: 159.9468
+Minimum Safety Margin: 15.5631
+Number of Corridors: 22
+Total Length: 51698.41
+Average Width: 114.80
+Path Efficiency Ratio: 1.036546
+Computation Time: 105.54
+
+============================================================

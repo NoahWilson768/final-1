@@ -1,0 +1,16 @@
+Metrics for _eastwind
+============================================================
+
+Coverage Rate: 0.150000
+Average Curvature: 0.000544
+Maximum Curvature: 0.000703
+Smoothness Index: 0.999456
+Average Safety Margin: 227.4951
+Minimum Safety Margin: 42.1240
+Number of Corridors: 3
+Total Length: 7942.55
+Average Width: 144.43
+Path Efficiency Ratio: 1.106845
+Computation Time: 421.61
+
+============================================================

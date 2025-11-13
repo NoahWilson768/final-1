@@ -1,0 +1,29 @@
+Metrics for _ablation_8
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000649
+Maximum Curvature: 0.003487
+Smoothness Index: 0.999351
+Average Safety Margin: 220.8555
+Minimum Safety Margin: 50.0191
+Number of Corridors: 26
+Total Length: 44436.06
+Average Width: 100.00
+Path Efficiency Ratio: 1.054316
+
+[Additional Metrics]
+Average Curvature (expanded): 0.000649
+Average Safety Margin (expanded): 188.395529
+Average Width (expanded): 100.000000
+Coverage Rate (expanded): 1.000000
+Maximum Curvature (expanded): 0.003487
+Minimum Safety Margin (expanded): 18.142499
+Number of Corridors (expanded): 26.000000
+Path Efficiency Ratio (expanded): 1.054316
+Safety Warning (expanded): False
+Smoothness Index (expanded): 0.999351
+Total Length (expanded): 44436.062195
+Computation Time: 74.47
+
+============================================================

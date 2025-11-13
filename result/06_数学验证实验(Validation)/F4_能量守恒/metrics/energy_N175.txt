@@ -1,0 +1,15 @@
+# 投影能量单调性测试结果 - N=175
+Grid_N: 175
+Grid_Points: 176x176
+dt_used: 1.000000e-03
+rho: 1.000000e+00
+nu_base: 1.000000e-06
+
+# 能量指标
+E_before_projection: 2.502784e+03
+E_after_projection: 1.877119e+03
+deltaE: 6.256657e+02
+energy_monotonic: True
+relative_error: 2.499879e-01
+gradp_norm_squared: 2.629466e+08
+deltaE_theory: 2.629466e+02

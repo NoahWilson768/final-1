@@ -1,0 +1,16 @@
+Metrics for _beijing_h120_theta225
+============================================================
+
+Coverage Rate: 0.850000
+Average Curvature: 0.000113
+Maximum Curvature: 0.000748
+Smoothness Index: 0.999887
+Average Safety Margin: 514.8070
+Minimum Safety Margin: 17.8507
+Number of Corridors: 17
+Total Length: 52464.51
+Average Width: 57.16
+Path Efficiency Ratio: 1.004311
+Computation Time: 1337.41
+
+============================================================

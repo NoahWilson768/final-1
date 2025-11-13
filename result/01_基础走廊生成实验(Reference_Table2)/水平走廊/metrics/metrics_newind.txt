@@ -1,0 +1,16 @@
+Metrics for _newind
+============================================================
+
+Coverage Rate: 0.200000
+Average Curvature: 0.000602
+Maximum Curvature: 0.001372
+Smoothness Index: 0.999398
+Average Safety Margin: 216.1998
+Minimum Safety Margin: 41.8301
+Number of Corridors: 4
+Total Length: 10207.22
+Average Width: 267.04
+Path Efficiency Ratio: 1.095888
+Computation Time: 402.51
+
+============================================================

@@ -1,0 +1,12 @@
+case: s_curve
+adapt_dt_safety: 0.5
+dt_initial: 1.000000e-04
+dt_final: 8.333333e-06
+status: stable
+num_corridors: 15
+max_curvature: 16.372088096548712
+avg_curvature: 1.174613943312401
+path_efficiency: 1.0226334680651166
+min_clearance: 0.010460492929661116
+avg_clearance: 0.23777372459881577
+elapsed: 26.0420

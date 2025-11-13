@@ -1,0 +1,16 @@
+Metrics for _shenzhen_h140_theta270
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000237
+Maximum Curvature: 0.001192
+Smoothness Index: 0.999763
+Average Safety Margin: 410.7501
+Minimum Safety Margin: 16.8530
+Number of Corridors: 26
+Total Length: 68998.49
+Average Width: 14.68
+Path Efficiency Ratio: 1.008116
+Computation Time: 1402.36
+
+============================================================

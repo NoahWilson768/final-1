@@ -1,0 +1,16 @@
+Metrics for _shenzhen_h120_theta225
+============================================================
+
+Coverage Rate: 0.700000
+Average Curvature: 0.000503
+Maximum Curvature: 0.001594
+Smoothness Index: 0.999497
+Average Safety Margin: 407.6946
+Minimum Safety Margin: 14.8996
+Number of Corridors: 14
+Total Length: 36847.06
+Average Width: 81.43
+Path Efficiency Ratio: 1.030612
+Computation Time: 1403.24
+
+============================================================

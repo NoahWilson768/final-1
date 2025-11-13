@@ -1,0 +1,16 @@
+Metrics for _guangzhou_h80_theta135
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000675
+Maximum Curvature: 0.004253
+Smoothness Index: 0.999325
+Average Safety Margin: 326.8365
+Minimum Safety Margin: 18.5935
+Number of Corridors: 25
+Total Length: 45216.46
+Average Width: 93.26
+Path Efficiency Ratio: 1.054316
+Computation Time: 2756.90
+
+============================================================

@@ -1,0 +1,16 @@
+Metrics for _safety
+============================================================
+
+Coverage Rate: 0.200000
+Average Curvature: 0.000593
+Maximum Curvature: 0.001343
+Smoothness Index: 0.999407
+Average Safety Margin: 214.2105
+Minimum Safety Margin: 35.9035
+Number of Corridors: 4
+Total Length: 10218.97
+Average Width: 268.35
+Path Efficiency Ratio: 1.093762
+Computation Time: 367.85
+
+============================================================

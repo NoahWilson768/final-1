@@ -1,0 +1,16 @@
+Metrics for _shanghai_h40_theta45
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000997
+Maximum Curvature: 0.004957
+Smoothness Index: 0.999003
+Average Safety Margin: 180.3289
+Minimum Safety Margin: 17.8585
+Number of Corridors: 41
+Total Length: 66035.45
+Average Width: 31.98
+Path Efficiency Ratio: 1.131198
+Computation Time: 3834.95
+
+============================================================

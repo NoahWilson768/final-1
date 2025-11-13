@@ -1,0 +1,16 @@
+Metrics for _shanghai_h100_theta180
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000702
+Maximum Curvature: 0.007172
+Smoothness Index: 0.999298
+Average Safety Margin: 197.8617
+Minimum Safety Margin: 15.5406
+Number of Corridors: 22
+Total Length: 48837.29
+Average Width: 110.82
+Path Efficiency Ratio: 1.105366
+Computation Time: 2772.54
+
+============================================================

@@ -1,0 +1,27 @@
+# 张量消融实验结果 - mode=isotropic, N=50
+Mode: isotropic
+Grid_N: 50
+Grid_Points: 51x51
+
+# 张量参数
+Use_Anisotropic: False
+cond_D_max: 1.000000
+cond_D_mean: 1.000000
+Num_Obstacles: 100
+
+# 求解器指标
+Computation_Time: 28.366348
+
+# 走廊指标
+Number of Corridors: 57
+Maximum Curvature: 8.651102
+Average Curvature: 0.731795
+Path Efficiency Ratio: 1.008447
+Coverage Rate: 1.000000
+Smoothness Index: 0.268205
+
+# 速度场统计
+u_mean: 1.000545e+00
+v_mean: 1.070027e-01
+u_max: 2.901932e+00
+v_max: 1.390468e+00

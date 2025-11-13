@@ -1,0 +1,12 @@
+case: maze
+adapt_dt_safety: 0.8
+dt_initial: 1.000000e-04
+dt_final: 1.333333e-05
+status: stable
+num_corridors: 15
+max_curvature: 13.236698081889795
+avg_curvature: 2.5282185752828967
+path_efficiency: 1.0118638495103183
+min_clearance: 0.001964631501991895
+avg_clearance: 0.03837953638011141
+elapsed: 32.8441

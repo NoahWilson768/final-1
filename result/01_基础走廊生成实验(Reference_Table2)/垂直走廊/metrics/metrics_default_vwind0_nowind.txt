@@ -1,0 +1,29 @@
+Configuration: default
+Vertical wind: 0.0 m/s
+Finsler parameters: α_obs=3.0, β_wind=0.3
+Section line: (504300, 3456250.0) -> (507000, 3456250.0)
+================================================================================
+Coverage Rate: 0.900000
+Average Curvature: 0.010800
+Maximum Curvature: 0.192062
+Smoothness Index: 0.989200
+Average Safety Margin: 153.4791
+Minimum Safety Margin: 9.3352
+Number of Corridors: 18
+Total Length: 48924.23
+Average Width: 131.75
+Path Efficiency Ratio: 1.007933
+
+============================================================
+Metrics (Key: Value)
+============================================================
+Coverage Rate: 0.900000
+Average Curvature: 0.010800
+Maximum Curvature: 0.192062
+Smoothness Index: 0.989200
+Average Safety Margin: 153.4791
+Minimum Safety Margin: 9.3352
+Number of Corridors: 18
+Total Length: 48924.23
+Average Width: 131.75
+Path Efficiency Ratio: 1.007933

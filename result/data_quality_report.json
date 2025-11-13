@@ -1,0 +1,73 @@
+{
+  "summary": {
+    "Category_A": {
+      "horizontal_metrics": 6,
+      "vertical_metrics": 6,
+      "svg_files": 15,
+      "expected_files": 12
+    },
+    "Category_B": {
+      "metrics_files": 12,
+      "svg_files": 24,
+      "expected_cities": 4,
+      "expected_layers_per_city": 3
+    },
+    "Category_C": {
+      "total_metrics": 12,
+      "total_svg": 24,
+      "subdirs": 5
+    },
+    "Category_D": {
+      "total_metrics": 24,
+      "total_svg": 12,
+      "zero_safety_count": 0,
+      "bug_fixed": true
+    },
+    "Category_E": {
+      "metrics_files": 8,
+      "svg_files": 16
+    },
+    "Category_F": {
+      "total_subdirs": 8,
+      "total_metrics": 18,
+      "total_figures": 10,
+      "f5_boundary_issues": 0,
+      "bug_fixed": true
+    }
+  },
+  "anomalies": [
+    {
+      "type": "EMPTY_FOLDER",
+      "exp_id": "F.1",
+      "folder": "/home/guyun/SCI1/result/06_数学验证实验(Validation)/F1_稳定域热图/metrics",
+      "issue": "metrics文件夹为空"
+    },
+    {
+      "type": "EMPTY_FOLDER",
+      "exp_id": "F.2",
+      "folder": "/home/guyun/SCI1/result/06_数学验证实验(Validation)/F2_条件数消融/metrics",
+      "issue": "metrics文件夹为空"
+    },
+    {
+      "type": "EMPTY_FOLDER",
+      "exp_id": "F.6",
+      "folder": "/home/guyun/SCI1/result/06_数学验证实验(Validation)/F6_张量消融/figures",
+      "issue": "figures文件夹为空"
+    },
+    {
+      "type": "VALIDATION_FAILURE",
+      "exp_id": "F.6",
+      "test": "isotropic_N100",
+      "metric": "u_mean",
+      "value": "NaN",
+      "issue": "速度场为NaN（求解器失败）"
+    },
+    {
+      "type": "EMPTY_FOLDER",
+      "exp_id": "F.8",
+      "folder": "/home/guyun/SCI1/result/06_数学验证实验(Validation)/F8_旋转各向异性压力测试/metrics",
+      "issue": "metrics文件夹为空"
+    }
+  ],
+  "total_anomalies": 5
+}

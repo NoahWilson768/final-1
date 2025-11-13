@@ -1,0 +1,31 @@
+Metrics for _margin1
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000893
+Maximum Curvature: 0.010340
+Smoothness Index: 0.999107
+Average Safety Margin: 190.6408
+Minimum Safety Margin: 18.0195
+Number of Corridors: 24
+Total Length: 62703.94
+Average Width: 70.89
+Path Efficiency Ratio: 1.088334
+
+[Additional Metrics]
+Average Curvature (expanded): 0.000893
+Average Safety Margin (dilated): 217.640796
+Average Safety Margin (expanded): 158.631539
+Average Width (expanded): 70.892393
+Coverage Rate (expanded): 1.000000
+Maximum Curvature (expanded): 0.010340
+Minimum Safety Margin (dilated): 45.019541
+Minimum Safety Margin (expanded): 2.130540
+Number of Corridors (expanded): 24.000000
+Path Efficiency Ratio (expanded): 1.088334
+Safety Warning (expanded): False
+Smoothness Index (expanded): 0.999107
+Total Length (expanded): 62703.937442
+Computation Time: 25.20
+
+============================================================

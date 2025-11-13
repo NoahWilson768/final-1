@@ -1,0 +1,16 @@
+Metrics for _shanghai_h80_theta135
+============================================================
+
+Coverage Rate: 0.900000
+Average Curvature: 0.001051
+Maximum Curvature: 0.013697
+Smoothness Index: 0.998949
+Average Safety Margin: 186.5203
+Minimum Safety Margin: 16.7021
+Number of Corridors: 18
+Total Length: 37139.35
+Average Width: 86.21
+Path Efficiency Ratio: 1.099444
+Computation Time: 2752.78
+
+============================================================

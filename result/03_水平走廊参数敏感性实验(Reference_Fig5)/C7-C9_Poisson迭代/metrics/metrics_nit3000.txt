@@ -1,0 +1,16 @@
+Metrics for _nit3000
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.002016
+Maximum Curvature: 0.026399
+Smoothness Index: 0.997984
+Average Safety Margin: 153.2238
+Minimum Safety Margin: 15.5779
+Number of Corridors: 27
+Total Length: 72041.14
+Average Width: 90.74
+Path Efficiency Ratio: 1.050449
+Computation Time: 23.98
+
+============================================================

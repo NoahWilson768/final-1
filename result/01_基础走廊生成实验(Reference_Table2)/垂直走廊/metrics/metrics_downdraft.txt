@@ -1,0 +1,16 @@
+Metrics for _downdraft
+============================================================
+
+Coverage Rate: 0.950000
+Average Curvature: 0.011401
+Maximum Curvature: 0.185421
+Smoothness Index: 0.988599
+Average Safety Margin: 153.4209
+Minimum Safety Margin: 10.5509
+Number of Corridors: 19
+Total Length: 51576.64
+Average Width: 124.35
+Path Efficiency Ratio: 1.007368
+Computation Time: 447.19
+
+============================================================

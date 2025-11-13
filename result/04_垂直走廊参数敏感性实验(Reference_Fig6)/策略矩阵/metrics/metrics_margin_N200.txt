@@ -1,0 +1,16 @@
+Metrics for _margin_N200
+============================================================
+
+Coverage Rate: 0.700000
+Average Curvature: 0.010785
+Maximum Curvature: 0.211353
+Smoothness Index: 0.989215
+Average Safety Margin: 163.0528
+Minimum Safety Margin: 10.4934
+Number of Corridors: 28
+Total Length: 74090.30
+Average Width: 87.01
+Path Efficiency Ratio: 1.006012
+Computation Time: 308.44
+
+============================================================

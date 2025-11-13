@@ -1,0 +1,16 @@
+Metrics for _shenzhen_h100_theta180
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000772
+Maximum Curvature: 0.010915
+Smoothness Index: 0.999228
+Average Safety Margin: 315.5451
+Minimum Safety Margin: 12.8330
+Number of Corridors: 27
+Total Length: 61319.31
+Average Width: 95.27
+Path Efficiency Ratio: 1.090797
+Computation Time: 2703.60
+
+============================================================

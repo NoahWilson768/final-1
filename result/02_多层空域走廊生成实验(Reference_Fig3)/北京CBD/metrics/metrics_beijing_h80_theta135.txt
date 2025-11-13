@@ -1,0 +1,16 @@
+Metrics for _beijing_h80_theta135
+============================================================
+
+Coverage Rate: 0.300000
+Average Curvature: 0.001127
+Maximum Curvature: 0.003404
+Smoothness Index: 0.998873
+Average Safety Margin: 157.1765
+Minimum Safety Margin: 15.8754
+Number of Corridors: 6
+Total Length: 12491.03
+Average Width: 9.99
+Path Efficiency Ratio: 1.075305
+Computation Time: 2775.79
+
+============================================================

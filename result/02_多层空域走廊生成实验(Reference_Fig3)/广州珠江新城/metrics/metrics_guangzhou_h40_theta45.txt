@@ -1,0 +1,16 @@
+Metrics for _guangzhou_h40_theta45
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001467
+Maximum Curvature: 0.006845
+Smoothness Index: 0.998533
+Average Safety Margin: 157.6281
+Minimum Safety Margin: 13.9427
+Number of Corridors: 38
+Total Length: 43227.86
+Average Width: 30.86
+Path Efficiency Ratio: 1.070451
+Computation Time: 3827.85
+
+============================================================

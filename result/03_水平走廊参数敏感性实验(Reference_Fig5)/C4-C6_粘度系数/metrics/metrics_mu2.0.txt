@@ -1,0 +1,16 @@
+Metrics for _mu2.0
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001085
+Maximum Curvature: 0.011425
+Smoothness Index: 0.998915
+Average Safety Margin: 175.4616
+Minimum Safety Margin: 20.4537
+Number of Corridors: 21
+Total Length: 50942.23
+Average Width: 117.02
+Path Efficiency Ratio: 1.033253
+Computation Time: 106.21
+
+============================================================

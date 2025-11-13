@@ -1,0 +1,16 @@
+Metrics for _fix3_test
+============================================================
+
+Coverage Rate: 0.400000
+Average Curvature: 0.000712
+Maximum Curvature: 0.001732
+Smoothness Index: 0.999288
+Average Safety Margin: 213.4683
+Minimum Safety Margin: 33.3218
+Number of Corridors: 4
+Total Length: 11696.29
+Average Width: 257.22
+Path Efficiency Ratio: 1.190896
+Computation Time: 12.66
+
+============================================================

@@ -1,0 +1,16 @@
+Metrics for _guangzhou_h100_theta180
+============================================================
+
+Coverage Rate: 0.750000
+Average Curvature: 0.000504
+Maximum Curvature: 0.003814
+Smoothness Index: 0.999496
+Average Safety Margin: 286.7787
+Minimum Safety Margin: 17.7915
+Number of Corridors: 15
+Total Length: 28906.08
+Average Width: 170.84
+Path Efficiency Ratio: 1.024111
+Computation Time: 2772.46
+
+============================================================

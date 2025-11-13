@@ -1,0 +1,16 @@
+Metrics for _guangzhou_h60_theta90
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.000803
+Maximum Curvature: 0.006881
+Smoothness Index: 0.999197
+Average Safety Margin: 332.6939
+Minimum Safety Margin: 14.9324
+Number of Corridors: 66
+Total Length: 90048.10
+Average Width: 28.11
+Path Efficiency Ratio: 1.044039
+Computation Time: 3857.28
+
+============================================================

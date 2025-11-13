@@ -1,0 +1,16 @@
+Metrics for _guangzhou_h120_theta225
+============================================================
+
+Coverage Rate: 0.350000
+Average Curvature: 0.000647
+Maximum Curvature: 0.002638
+Smoothness Index: 0.999353
+Average Safety Margin: 243.0642
+Minimum Safety Margin: 17.9122
+Number of Corridors: 7
+Total Length: 18275.55
+Average Width: 250.80
+Path Efficiency Ratio: 1.044216
+Computation Time: 1407.45
+
+============================================================

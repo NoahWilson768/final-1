@@ -1,0 +1,16 @@
+Metrics for _baseline_N200
+============================================================
+
+Coverage Rate: 0.900000
+Average Curvature: 0.010574
+Maximum Curvature: 0.283728
+Smoothness Index: 0.989426
+Average Safety Margin: 163.9540
+Minimum Safety Margin: 8.3154
+Number of Corridors: 36
+Total Length: 96809.18
+Average Width: 68.51
+Path Efficiency Ratio: 1.004791
+Computation Time: 312.00
+
+============================================================

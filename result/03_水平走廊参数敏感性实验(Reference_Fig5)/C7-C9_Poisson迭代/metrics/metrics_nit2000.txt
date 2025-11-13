@@ -1,0 +1,16 @@
+Metrics for _nit2000
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.001972
+Maximum Curvature: 0.028467
+Smoothness Index: 0.998028
+Average Safety Margin: 154.5194
+Minimum Safety Margin: 16.5673
+Number of Corridors: 25
+Total Length: 67449.70
+Average Width: 97.01
+Path Efficiency Ratio: 1.049124
+Computation Time: 23.95
+
+============================================================

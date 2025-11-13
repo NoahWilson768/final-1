@@ -1,0 +1,1449 @@
+{
+  "total_dirs": 102,
+  "empty_dirs": [
+    "06_数学验证实验(Validation)/F6_张量消融/figures",
+    "07_综合分析报告(Comprehensive_Report)",
+    "07_综合分析报告(Comprehensive_Report)"
+  ],
+  "non_empty_dirs": [
+    {
+      "name": "06_数学验证实验(Validation)",
+      "file_count": 35,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "F1_稳定域热图",
+          "file_count": 3,
+          "is_empty": false
+        },
+        {
+          "name": "F2_条件数消融",
+          "file_count": 2,
+          "is_empty": false
+        },
+        {
+          "name": "F7_CFL自适应压力测试",
+          "file_count": 6,
+          "is_empty": false
+        },
+        {
+          "name": "F8_旋转各向异性压力测试",
+          "file_count": 2,
+          "is_empty": false
+        },
+        {
+          "name": "F6_张量消融",
+          "file_count": 3,
+          "is_empty": false
+        },
+        {
+          "name": "F5_边界一致性",
+          "file_count": 5,
+          "is_empty": false
+        },
+        {
+          "name": "F3_散度验证",
+          "file_count": 7,
+          "is_empty": false
+        },
+        {
+          "name": "F4_能量守恒",
+          "file_count": 7,
+          "is_empty": false
+        }
+      ]
+    },
+    {
+      "name": "Reference对照",
+      "file_count": 36,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "Fig_3",
+          "file_count": 12,
+          "is_empty": false
+        },
+        {
+          "name": "Fig_6",
+          "file_count": 12,
+          "is_empty": false
+        },
+        {
+          "name": "Fig_5",
+          "file_count": 12,
+          "is_empty": false
+        }
+      ]
+    },
+    {
+      "name": "04_垂直走廊参数敏感性实验(Reference_Fig6)",
+      "file_count": 36,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "D1-D9_网格分辨率矩阵",
+          "file_count": 27,
+          "is_empty": false
+        },
+        {
+          "name": "D10-D12_综合优化对比",
+          "file_count": 9,
+          "is_empty": false
+        }
+      ]
+    },
+    {
+      "name": "02_多层空域走廊生成实验(Reference_Fig3)",
+      "file_count": 36,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "广州珠江新城",
+          "file_count": 9,
+          "is_empty": false
+        },
+        {
+          "name": "上海陆家嘴",
+          "file_count": 9,
+          "is_empty": false
+        },
+        {
+          "name": "深圳福田",
+          "file_count": 9,
+          "is_empty": false
+        },
+        {
+          "name": "北京CBD",
+          "file_count": 9,
+          "is_empty": false
+        }
+      ]
+    },
+    {
+      "name": "01_基础走廊生成实验(Reference_Table2)",
+      "file_count": 27,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "水平走廊",
+          "file_count": 18,
+          "is_empty": false
+        },
+        {
+          "name": "垂直走廊",
+          "file_count": 9,
+          "is_empty": false
+        }
+      ]
+    },
+    {
+      "name": "validation",
+      "file_count": 10,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "energy",
+          "file_count": 2,
+          "is_empty": false
+        },
+        {
+          "name": "divergence",
+          "file_count": 2,
+          "is_empty": false
+        },
+        {
+          "name": "cfl_adapt",
+          "file_count": 1,
+          "is_empty": false
+        },
+        {
+          "name": "boundary_consistency",
+          "file_count": 1,
+          "is_empty": false
+        },
+        {
+          "name": "cond_clip",
+          "file_count": 1,
+          "is_empty": false
+        },
+        {
+          "name": "stability_map",
+          "file_count": 2,
+          "is_empty": false
+        },
+        {
+          "name": "stress_rot",
+          "file_count": 1,
+          "is_empty": false
+        }
+      ]
+    },
+    {
+      "name": "05_消融实验(Ablation_Study)",
+      "file_count": 24,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "metrics",
+          "file_count": 8,
+          "is_empty": false
+        },
+        {
+          "name": "tensor_fields",
+          "file_count": 8,
+          "is_empty": false
+        },
+        {
+          "name": "paths",
+          "file_count": 8,
+          "is_empty": false
+        }
+      ]
+    },
+    {
+      "name": "03_水平走廊参数敏感性实验(Reference_Fig5)",
+      "file_count": 36,
+      "is_empty": false,
+      "subdirs": [
+        {
+          "name": "C10-C11_安全边界",
+          "file_count": 6,
+          "is_empty": false
+        },
+        {
+          "name": "C1-C3_网格分辨率",
+          "file_count": 9,
+          "is_empty": false
+        },
+        {
+          "name": "C12_B样条平滑",
+          "file_count": 3,
+          "is_empty": false
+        },
+        {
+          "name": "C4-C6_粘度系数",
+          "file_count": 9,
+          "is_empty": false
+        },
+        {
+          "name": "C7-C9_Poisson迭代",
+          "file_count": 9,
+          "is_empty": false
+        }
+      ]
+    }
+  ],
+  "recent_files": [],
+  "all_files_by_time": [
+    {
+      "path": "data_quality_report.json",
+      "mtime": "2025-10-14 22:31:01",
+      "size": 1866
+    },
+    {
+      "path": "README.txt",
+      "mtime": "2025-10-14 19:20:17",
+      "size": 3136
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F7_CFL自适应压力测试/figures/cfl_stress_analysis.png",
+      "mtime": "2025-10-14 19:20:16",
+      "size": 283914
+    },
+    {
+      "path": "validation/cfl_adapt/figures/cfl_stress_analysis.png",
+      "mtime": "2025-10-14 19:20:16",
+      "size": 283914
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F7_CFL自适应压力测试/metrics/cfl_alpha50.txt",
+      "mtime": "2025-10-14 19:20:15",
+      "size": 154
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F7_CFL自适应压力测试/metrics/cfl_summary.csv",
+      "mtime": "2025-10-14 19:20:15",
+      "size": 222
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F7_CFL自适应压力测试/metrics/cfl_alpha30.txt",
+      "mtime": "2025-10-14 19:02:59",
+      "size": 154
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F6_张量消融/metrics/isotropic_N100.txt",
+      "mtime": "2025-10-14 18:59:20",
+      "size": 398
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F7_CFL自适应压力测试/metrics/cfl_alpha10.txt",
+      "mtime": "2025-10-14 18:40:19",
+      "size": 154
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F7_CFL自适应压力测试/metrics/cfl_alpha5.txt",
+      "mtime": "2025-10-14 18:18:43",
+      "size": 152
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F1_稳定域热图/figures/condition_number_heatmap.png",
+      "mtime": "2025-10-14 18:17:25",
+      "size": 186480
+    },
+    {
+      "path": "validation/stability_map/figures/condition_number_heatmap.png",
+      "mtime": "2025-10-14 18:17:25",
+      "size": 186480
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F1_稳定域热图/figures/stability_heatmap.png",
+      "mtime": "2025-10-14 18:17:24",
+      "size": 144305
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F1_稳定域热图/metrics/stability_map.csv",
+      "mtime": "2025-10-14 18:17:24",
+      "size": 4829
+    },
+    {
+      "path": "validation/stability_map/figures/stability_heatmap.png",
+      "mtime": "2025-10-14 18:17:24",
+      "size": 144305
+    },
+    {
+      "path": "Reference对照/Fig_6/6g_N300_baseline.svg",
+      "mtime": "2025-10-14 18:09:37",
+      "size": 1663219
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N300_baseline.txt",
+      "mtime": "2025-10-14 18:09:37",
+      "size": 447
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N300_baseline.txt",
+      "mtime": "2025-10-14 18:09:37",
+      "size": 912
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N300_baseline.svg",
+      "mtime": "2025-10-14 18:09:37",
+      "size": 1663219
+    },
+    {
+      "path": "Reference对照/Fig_6/6i_N300_smooth.svg",
+      "mtime": "2025-10-14 18:09:24",
+      "size": 1663366
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N300_smooth.txt",
+      "mtime": "2025-10-14 18:09:24",
+      "size": 445
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N300_smooth.txt",
+      "mtime": "2025-10-14 18:09:24",
+      "size": 912
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N300_smooth.svg",
+      "mtime": "2025-10-14 18:09:24",
+      "size": 1663366
+    },
+    {
+      "path": "Reference对照/Fig_6/6h_N300_margin.svg",
+      "mtime": "2025-10-14 18:09:20",
+      "size": 1596826
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N300_margin.txt",
+      "mtime": "2025-10-14 18:09:20",
+      "size": 444
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N300_margin.txt",
+      "mtime": "2025-10-14 18:09:20",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N300_margin.svg",
+      "mtime": "2025-10-14 18:09:20",
+      "size": 1596826
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F6_张量消融/metrics/axis_N100.txt",
+      "mtime": "2025-10-14 18:04:56",
+      "size": 448
+    },
+    {
+      "path": "validation/stress_rot/figures/rotating_stress_analysis.png",
+      "mtime": "2025-10-14 18:00:51",
+      "size": 464828
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F8_旋转各向异性压力测试/figures/rotating_stress_analysis.png",
+      "mtime": "2025-10-14 18:00:49",
+      "size": 464828
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F8_旋转各向异性压力测试/metrics/stress_rot_summary.csv",
+      "mtime": "2025-10-14 18:00:47",
+      "size": 1309
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F6_张量消融/metrics/full_N100.txt",
+      "mtime": "2025-10-14 17:57:06",
+      "size": 448
+    },
+    {
+      "path": "Reference对照/Fig_6/6d_N200_baseline.svg",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 968436
+    },
+    {
+      "path": "Reference对照/Fig_6/6f_N200_smooth.svg",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 968544
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N200_smooth.txt",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 444
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N200_baseline.txt",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N200_baseline.txt",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 446
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N200_smooth.txt",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N200_smooth.svg",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 968544
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N200_baseline.svg",
+      "mtime": "2025-10-14 17:56:57",
+      "size": 968436
+    },
+    {
+      "path": "Reference对照/Fig_6/6e_N200_margin.svg",
+      "mtime": "2025-10-14 17:56:51",
+      "size": 907955
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N200_margin.txt",
+      "mtime": "2025-10-14 17:56:51",
+      "size": 444
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N200_margin.txt",
+      "mtime": "2025-10-14 17:56:51",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N200_margin.svg",
+      "mtime": "2025-10-14 17:56:51",
+      "size": 907955
+    },
+    {
+      "path": "validation/boundary_consistency/figures/boundary_consistency.png",
+      "mtime": "2025-10-14 17:51:06",
+      "size": 218465
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F5_边界一致性/figures/boundary_consistency.png",
+      "mtime": "2025-10-14 17:51:05",
+      "size": 218465
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F5_边界一致性/metrics/wall_N200_current.txt",
+      "mtime": "2025-10-14 17:51:04",
+      "size": 163
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F5_边界一致性/metrics/boundary_summary.csv",
+      "mtime": "2025-10-14 17:51:04",
+      "size": 209
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/metrics/metrics_mu3.0.txt",
+      "mtime": "2025-10-14 17:50:31",
+      "size": 440
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/tensor_fields/diffusion_tensor_mu3.0.svg",
+      "mtime": "2025-10-14 17:50:31",
+      "size": 153244
+    },
+    {
+      "path": "Reference对照/Fig_5/5f_mu3.0.svg",
+      "mtime": "2025-10-14 17:50:30",
+      "size": 580335
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/paths/corridor_mu3.0.svg",
+      "mtime": "2025-10-14 17:50:30",
+      "size": 580335
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/metrics/metrics_N300.txt",
+      "mtime": "2025-10-14 17:48:37",
+      "size": 436
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/tensor_fields/diffusion_tensor_N300.svg",
+      "mtime": "2025-10-14 17:48:37",
+      "size": 76603
+    },
+    {
+      "path": "Reference对照/Fig_5/5c_N300.svg",
+      "mtime": "2025-10-14 17:48:36",
+      "size": 1768340
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/paths/corridor_N300.svg",
+      "mtime": "2025-10-14 17:48:36",
+      "size": 1768340
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/metrics/metrics_mu2.0.txt",
+      "mtime": "2025-10-14 17:48:28",
+      "size": 439
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/tensor_fields/diffusion_tensor_mu2.0.svg",
+      "mtime": "2025-10-14 17:48:28",
+      "size": 148185
+    },
+    {
+      "path": "Reference对照/Fig_5/5e_mu2.0.svg",
+      "mtime": "2025-10-14 17:48:27",
+      "size": 592857
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/paths/corridor_mu2.0.svg",
+      "mtime": "2025-10-14 17:48:27",
+      "size": 592857
+    },
+    {
+      "path": "validation/cond_clip/figures/cond_ablation_analysis.png",
+      "mtime": "2025-10-14 17:46:53",
+      "size": 298708
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F2_条件数消融/figures/cond_ablation_analysis.png",
+      "mtime": "2025-10-14 17:46:52",
+      "size": 298708
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F2_条件数消融/metrics/cond_clip_no_wind.csv",
+      "mtime": "2025-10-14 17:46:49",
+      "size": 860
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F4_能量守恒/figures/energy_pressure_gradient.png",
+      "mtime": "2025-10-14 17:46:13",
+      "size": 134241
+    },
+    {
+      "path": "validation/energy/figures/energy_pressure_gradient.png",
+      "mtime": "2025-10-14 17:46:13",
+      "size": 134241
+    },
+    {
+      "path": "validation/energy/figures/energy_conservation.png",
+      "mtime": "2025-10-14 17:46:12",
+      "size": 207434
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F4_能量守恒/figures/energy_conservation.png",
+      "mtime": "2025-10-14 17:46:11",
+      "size": 207434
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F4_能量守恒/metrics/energy_summary.csv",
+      "mtime": "2025-10-14 17:46:10",
+      "size": 438
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F4_能量守恒/metrics/energy_N300.txt",
+      "mtime": "2025-10-14 17:46:10",
+      "size": 357
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F5_边界一致性/metrics/wall_N100_current.txt",
+      "mtime": "2025-10-14 17:46:08",
+      "size": 162
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_6.txt",
+      "mtime": "2025-10-14 17:46:07",
+      "size": 443
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_6.svg",
+      "mtime": "2025-10-14 17:46:07",
+      "size": 151927
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_6.svg",
+      "mtime": "2025-10-14 17:46:05",
+      "size": 483175
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_8.txt",
+      "mtime": "2025-10-14 17:46:00",
+      "size": 443
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_8.svg",
+      "mtime": "2025-10-14 17:46:00",
+      "size": 141399
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_8.svg",
+      "mtime": "2025-10-14 17:45:59",
+      "size": 634554
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_7.txt",
+      "mtime": "2025-10-14 17:45:52",
+      "size": 443
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_7.svg",
+      "mtime": "2025-10-14 17:45:52",
+      "size": 141562
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_7.svg",
+      "mtime": "2025-10-14 17:45:51",
+      "size": 651545
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/metrics/metrics_mu1.0.txt",
+      "mtime": "2025-10-14 17:45:43",
+      "size": 439
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/tensor_fields/diffusion_tensor_mu1.0.svg",
+      "mtime": "2025-10-14 17:45:43",
+      "size": 150279
+    },
+    {
+      "path": "Reference对照/Fig_5/5d_mu1.0.svg",
+      "mtime": "2025-10-14 17:45:41",
+      "size": 516434
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C4-C6_粘度系数/paths/corridor_mu1.0.svg",
+      "mtime": "2025-10-14 17:45:41",
+      "size": 516434
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_2.txt",
+      "mtime": "2025-10-14 17:45:40",
+      "size": 443
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_2.svg",
+      "mtime": "2025-10-14 17:45:40",
+      "size": 152375
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_2.svg",
+      "mtime": "2025-10-14 17:45:40",
+      "size": 594032
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_5.txt",
+      "mtime": "2025-10-14 17:45:32",
+      "size": 444
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_5.svg",
+      "mtime": "2025-10-14 17:45:32",
+      "size": 79413
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_5.svg",
+      "mtime": "2025-10-14 17:45:30",
+      "size": 633530
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_4.txt",
+      "mtime": "2025-10-14 17:45:26",
+      "size": 444
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_4.svg",
+      "mtime": "2025-10-14 17:45:26",
+      "size": 79444
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_4.svg",
+      "mtime": "2025-10-14 17:45:25",
+      "size": 594777
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_1.txt",
+      "mtime": "2025-10-14 17:45:16",
+      "size": 444
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_1.svg",
+      "mtime": "2025-10-14 17:45:16",
+      "size": 151927
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_1.svg",
+      "mtime": "2025-10-14 17:45:15",
+      "size": 512747
+    },
+    {
+      "path": "Reference对照/Fig_6/6l_combined_combined.svg",
+      "mtime": "2025-10-14 17:45:13",
+      "size": 414547
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/metrics/metrics_combined_combined.txt",
+      "mtime": "2025-10-14 17:45:13",
+      "size": 449
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/metrics/metrics_default_vwind0_combined_combined.txt",
+      "mtime": "2025-10-14 17:45:13",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/paths/hybrid_default_vwind0_combined_combined.svg",
+      "mtime": "2025-10-14 17:45:13",
+      "size": 414547
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/metrics/metrics_ablation_3.txt",
+      "mtime": "2025-10-14 17:45:00",
+      "size": 443
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/tensor_fields/diffusion_tensor_ablation_3.svg",
+      "mtime": "2025-10-14 17:45:00",
+      "size": 152402
+    },
+    {
+      "path": "Reference对照/Fig_6/6j_combined_baseline.svg",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 428414
+    },
+    {
+      "path": "Reference对照/Fig_6/6k_combined_margin.svg",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 414471
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/metrics/metrics_default_vwind0_combined_baseline.txt",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/metrics/metrics_default_vwind0_combined_margin.txt",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/metrics/metrics_combined_margin.txt",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 447
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/metrics/metrics_combined_baseline.txt",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 449
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/paths/hybrid_default_vwind0_combined_margin.svg",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 414471
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D10-D12_综合优化对比/paths/hybrid_default_vwind0_combined_baseline.svg",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 428414
+    },
+    {
+      "path": "05_消融实验(Ablation_Study)/paths/corridor_ablation_3.svg",
+      "mtime": "2025-10-14 17:44:58",
+      "size": 516069
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F5_边界一致性/metrics/wall_N50_current.txt",
+      "mtime": "2025-10-14 17:44:57",
+      "size": 160
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F4_能量守恒/metrics/energy_N200.txt",
+      "mtime": "2025-10-14 17:44:49",
+      "size": 357
+    },
+    {
+      "path": "Reference对照/Fig_6/6a_N100_baseline.svg",
+      "mtime": "2025-10-14 17:44:43",
+      "size": 428414
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N100_baseline.txt",
+      "mtime": "2025-10-14 17:44:43",
+      "size": 445
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N100_baseline.txt",
+      "mtime": "2025-10-14 17:44:43",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N100_baseline.svg",
+      "mtime": "2025-10-14 17:44:43",
+      "size": 428414
+    },
+    {
+      "path": "Reference对照/Fig_6/6c_N100_smooth.svg",
+      "mtime": "2025-10-14 17:44:40",
+      "size": 428567
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N100_smooth.txt",
+      "mtime": "2025-10-14 17:44:40",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N100_smooth.txt",
+      "mtime": "2025-10-14 17:44:40",
+      "size": 443
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N100_smooth.svg",
+      "mtime": "2025-10-14 17:44:40",
+      "size": 428567
+    },
+    {
+      "path": "Reference对照/Fig_6/6b_N100_margin.svg",
+      "mtime": "2025-10-14 17:44:36",
+      "size": 414471
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_default_vwind0_N100_margin.txt",
+      "mtime": "2025-10-14 17:44:36",
+      "size": 910
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/metrics/metrics_N100_margin.txt",
+      "mtime": "2025-10-14 17:44:36",
+      "size": 443
+    },
+    {
+      "path": "04_垂直走廊参数敏感性实验(Reference_Fig6)/D1-D9_网格分辨率矩阵/paths/hybrid_default_vwind0_N100_margin.svg",
+      "mtime": "2025-10-14 17:44:36",
+      "size": 414471
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F4_能量守恒/metrics/energy_N100.txt",
+      "mtime": "2025-10-14 17:43:59",
+      "size": 357
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F4_能量守恒/metrics/energy_N50.txt",
+      "mtime": "2025-10-14 17:43:46",
+      "size": 353
+    },
+    {
+      "path": "validation/divergence/figures/divergence_convergence_rate.png",
+      "mtime": "2025-10-14 17:43:44",
+      "size": 121698
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F3_散度验证/figures/divergence_convergence_rate.png",
+      "mtime": "2025-10-14 17:43:43",
+      "size": 121698
+    },
+    {
+      "path": "validation/divergence/figures/divergence_convergence.png",
+      "mtime": "2025-10-14 17:43:42",
+      "size": 252987
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F3_散度验证/figures/divergence_convergence.png",
+      "mtime": "2025-10-14 17:43:41",
+      "size": 252987
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F3_散度验证/metrics/div_N300.txt",
+      "mtime": "2025-10-14 17:43:37",
+      "size": 460
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F3_散度验证/metrics/divergence_summary.csv",
+      "mtime": "2025-10-14 17:43:37",
+      "size": 333
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F3_散度验证/metrics/div_N200.txt",
+      "mtime": "2025-10-14 17:41:50",
+      "size": 460
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F3_散度验证/metrics/div_N100.txt",
+      "mtime": "2025-10-14 17:41:04",
+      "size": 460
+    },
+    {
+      "path": "06_数学验证实验(Validation)/F3_散度验证/metrics/div_N50.txt",
+      "mtime": "2025-10-14 17:40:51",
+      "size": 456
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/metrics/metrics_N200.txt",
+      "mtime": "2025-10-14 17:40:49",
+      "size": 436
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/tensor_fields/diffusion_tensor_N200.svg",
+      "mtime": "2025-10-14 17:40:49",
+      "size": 79458
+    },
+    {
+      "path": "Reference对照/Fig_5/5b_N200.svg",
+      "mtime": "2025-10-14 17:40:47",
+      "size": 1150243
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/paths/corridor_N200.svg",
+      "mtime": "2025-10-14 17:40:47",
+      "size": 1150243
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C12_B样条平滑/metrics/metrics_smooth1.0.txt",
+      "mtime": "2025-10-14 17:40:41",
+      "size": 442
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C12_B样条平滑/tensor_fields/diffusion_tensor_smooth1.0.svg",
+      "mtime": "2025-10-14 17:40:41",
+      "size": 77586
+    },
+    {
+      "path": "Reference对照/Fig_5/5l_smooth1.0.svg",
+      "mtime": "2025-10-14 17:40:39",
+      "size": 520872
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C12_B样条平滑/paths/corridor_smooth1.0.svg",
+      "mtime": "2025-10-14 17:40:39",
+      "size": 520872
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C10-C11_安全边界/metrics/metrics_margin1.txt",
+      "mtime": "2025-10-14 17:40:23",
+      "size": 441
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C10-C11_安全边界/tensor_fields/diffusion_tensor_margin1.svg",
+      "mtime": "2025-10-14 17:40:23",
+      "size": 77716
+    },
+    {
+      "path": "Reference对照/Fig_5/5k_margin1.svg",
+      "mtime": "2025-10-14 17:40:21",
+      "size": 618922
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C10-C11_安全边界/paths/corridor_margin1.svg",
+      "mtime": "2025-10-14 17:40:21",
+      "size": 618922
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C10-C11_安全边界/metrics/metrics_margin0.txt",
+      "mtime": "2025-10-14 17:40:15",
+      "size": 441
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C10-C11_安全边界/tensor_fields/diffusion_tensor_margin0.svg",
+      "mtime": "2025-10-14 17:40:15",
+      "size": 77716
+    },
+    {
+      "path": "Reference对照/Fig_5/5j_margin0.svg",
+      "mtime": "2025-10-14 17:40:13",
+      "size": 547880
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C10-C11_安全边界/paths/corridor_margin0.svg",
+      "mtime": "2025-10-14 17:40:13",
+      "size": 547880
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/metrics/metrics_smooth.txt",
+      "mtime": "2025-10-14 17:40:10",
+      "size": 439
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/tensor_fields/diffusion_tensor_smooth.svg",
+      "mtime": "2025-10-14 17:40:10",
+      "size": 142764
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/paths/corridor_smooth.svg",
+      "mtime": "2025-10-14 17:40:07",
+      "size": 608314
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/metrics/metrics_nit3000.txt",
+      "mtime": "2025-10-14 17:40:03",
+      "size": 440
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/tensor_fields/diffusion_tensor_nit3000.svg",
+      "mtime": "2025-10-14 17:40:03",
+      "size": 76498
+    },
+    {
+      "path": "Reference对照/Fig_5/5i_nit3000.svg",
+      "mtime": "2025-10-14 17:40:01",
+      "size": 547732
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/paths/corridor_nit3000.svg",
+      "mtime": "2025-10-14 17:40:01",
+      "size": 547732
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/metrics/metrics_shanghai_h60_theta90.txt",
+      "mtime": "2025-10-14 17:39:20",
+      "size": 453
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/tensor_fields/diffusion_tensor_shanghai_h60_theta90.svg",
+      "mtime": "2025-10-14 17:39:20",
+      "size": 141896
+    },
+    {
+      "path": "Reference对照/Fig_3/shanghai_60m_layer1.svg",
+      "mtime": "2025-10-14 17:39:19",
+      "size": 586185
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/paths/corridor_shanghai_h60_theta90.svg",
+      "mtime": "2025-10-14 17:39:19",
+      "size": 586185
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/metrics/metrics_beijing_h60_theta90.txt",
+      "mtime": "2025-10-14 17:39:18",
+      "size": 443
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/tensor_fields/diffusion_tensor_beijing_h60_theta90.svg",
+      "mtime": "2025-10-14 17:39:18",
+      "size": 135577
+    },
+    {
+      "path": "Reference对照/Fig_3/beijing_60m_layer1.svg",
+      "mtime": "2025-10-14 17:39:16",
+      "size": 783374
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/paths/corridor_beijing_h60_theta90.svg",
+      "mtime": "2025-10-14 17:39:16",
+      "size": 783374
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/metrics/metrics_guangzhou_h60_theta90.txt",
+      "mtime": "2025-10-14 17:39:14",
+      "size": 453
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/tensor_fields/diffusion_tensor_guangzhou_h60_theta90.svg",
+      "mtime": "2025-10-14 17:39:14",
+      "size": 137922
+    },
+    {
+      "path": "Reference对照/Fig_3/guangzhou_60m_layer1.svg",
+      "mtime": "2025-10-14 17:39:12",
+      "size": 498969
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/paths/corridor_guangzhou_h60_theta90.svg",
+      "mtime": "2025-10-14 17:39:12",
+      "size": 498969
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/metrics/metrics_shanghai_h100_theta180.txt",
+      "mtime": "2025-10-14 17:39:11",
+      "size": 455
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/tensor_fields/diffusion_tensor_shanghai_h100_theta180.svg",
+      "mtime": "2025-10-14 17:39:11",
+      "size": 140711
+    },
+    {
+      "path": "Reference对照/Fig_3/shanghai_100m_layer2.svg",
+      "mtime": "2025-10-14 17:39:10",
+      "size": 495616
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/paths/corridor_shanghai_h100_theta180.svg",
+      "mtime": "2025-10-14 17:39:10",
+      "size": 495616
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/metrics/metrics_guangzhou_h100_theta180.txt",
+      "mtime": "2025-10-14 17:39:05",
+      "size": 456
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/tensor_fields/diffusion_tensor_guangzhou_h100_theta180.svg",
+      "mtime": "2025-10-14 17:39:05",
+      "size": 133349
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/metrics/metrics_shenzhen_h140_theta270.txt",
+      "mtime": "2025-10-14 17:39:05",
+      "size": 455
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/tensor_fields/diffusion_tensor_shenzhen_h140_theta270.svg",
+      "mtime": "2025-10-14 17:39:05",
+      "size": 121075
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/metrics/metrics_beijing_h100_theta180.txt",
+      "mtime": "2025-10-14 17:39:05",
+      "size": 455
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/tensor_fields/diffusion_tensor_beijing_h100_theta180.svg",
+      "mtime": "2025-10-14 17:39:05",
+      "size": 134786
+    },
+    {
+      "path": "Reference对照/Fig_3/guangzhou_100m_layer2.svg",
+      "mtime": "2025-10-14 17:39:04",
+      "size": 300264
+    },
+    {
+      "path": "Reference对照/Fig_3/beijing_100m_layer2.svg",
+      "mtime": "2025-10-14 17:39:04",
+      "size": 324722
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/paths/corridor_guangzhou_h100_theta180.svg",
+      "mtime": "2025-10-14 17:39:04",
+      "size": 300264
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/paths/corridor_beijing_h100_theta180.svg",
+      "mtime": "2025-10-14 17:39:04",
+      "size": 324722
+    },
+    {
+      "path": "Reference对照/Fig_3/shenzhen_140m_layer3.svg",
+      "mtime": "2025-10-14 17:39:03",
+      "size": 195859
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/metrics/metrics_shanghai_h140_theta270.txt",
+      "mtime": "2025-10-14 17:39:03",
+      "size": 455
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/tensor_fields/diffusion_tensor_shanghai_h140_theta270.svg",
+      "mtime": "2025-10-14 17:39:03",
+      "size": 131434
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/paths/corridor_shenzhen_h140_theta270.svg",
+      "mtime": "2025-10-14 17:39:03",
+      "size": 195859
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/metrics/metrics_nit2000.txt",
+      "mtime": "2025-10-14 17:39:03",
+      "size": 440
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/tensor_fields/diffusion_tensor_nit2000.svg",
+      "mtime": "2025-10-14 17:39:03",
+      "size": 75825
+    },
+    {
+      "path": "Reference对照/Fig_3/shanghai_140m_layer3.svg",
+      "mtime": "2025-10-14 17:39:01",
+      "size": 321352
+    },
+    {
+      "path": "Reference对照/Fig_5/5h_nit2000.svg",
+      "mtime": "2025-10-14 17:39:01",
+      "size": 544943
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/上海陆家嘴/paths/corridor_shanghai_h140_theta270.svg",
+      "mtime": "2025-10-14 17:39:01",
+      "size": 321352
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/metrics/metrics_shenzhen_h100_theta180.txt",
+      "mtime": "2025-10-14 17:39:01",
+      "size": 456
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/tensor_fields/diffusion_tensor_shenzhen_h100_theta180.svg",
+      "mtime": "2025-10-14 17:39:01",
+      "size": 123508
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/paths/corridor_nit2000.svg",
+      "mtime": "2025-10-14 17:39:01",
+      "size": 544943
+    },
+    {
+      "path": "Reference对照/Fig_3/shenzhen_100m_layer2.svg",
+      "mtime": "2025-10-14 17:38:59",
+      "size": 372268
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/paths/corridor_shenzhen_h100_theta180.svg",
+      "mtime": "2025-10-14 17:38:59",
+      "size": 372268
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/metrics/metrics_default_vwind5_updraft.txt",
+      "mtime": "2025-10-14 17:38:57",
+      "size": 910
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/metrics/metrics_updraft.txt",
+      "mtime": "2025-10-14 17:38:57",
+      "size": 439
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/metrics/metrics_shenzhen_h60_theta90.txt",
+      "mtime": "2025-10-14 17:38:56",
+      "size": 451
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/tensor_fields/diffusion_tensor_shenzhen_h60_theta90.svg",
+      "mtime": "2025-10-14 17:38:56",
+      "size": 130369
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/paths/hybrid_default_vwind5_updraft.svg",
+      "mtime": "2025-10-14 17:38:56",
+      "size": 414975
+    },
+    {
+      "path": "Reference对照/Fig_3/shenzhen_60m_layer1.svg",
+      "mtime": "2025-10-14 17:38:54",
+      "size": 453223
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/深圳福田/paths/corridor_shenzhen_h60_theta90.svg",
+      "mtime": "2025-10-14 17:38:54",
+      "size": 453223
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/metrics/metrics_newind.txt",
+      "mtime": "2025-10-14 17:38:45",
+      "size": 439
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/tensor_fields/diffusion_tensor_newind.svg",
+      "mtime": "2025-10-14 17:38:45",
+      "size": 139842
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/metrics/metrics_downdraft.txt",
+      "mtime": "2025-10-14 17:38:45",
+      "size": 442
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/metrics/metrics_default_vwind-3_downdraft.txt",
+      "mtime": "2025-10-14 17:38:45",
+      "size": 913
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/paths/hybrid_default_vwind-3_downdraft.svg",
+      "mtime": "2025-10-14 17:38:45",
+      "size": 414852
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/paths/corridor_newind.svg",
+      "mtime": "2025-10-14 17:38:43",
+      "size": 627863
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/metrics/metrics_nowind.txt",
+      "mtime": "2025-10-14 17:38:42",
+      "size": 438
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/metrics/metrics_default_vwind0_nowind.txt",
+      "mtime": "2025-10-14 17:38:42",
+      "size": 910
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/垂直走廊/paths/hybrid_default_vwind0_nowind.svg",
+      "mtime": "2025-10-14 17:38:42",
+      "size": 414555
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/metrics/metrics_beijing_h140_theta270.txt",
+      "mtime": "2025-10-14 17:38:40",
+      "size": 453
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/tensor_fields/diffusion_tensor_beijing_h140_theta270.svg",
+      "mtime": "2025-10-14 17:38:40",
+      "size": 98957
+    },
+    {
+      "path": "Reference对照/Fig_3/beijing_140m_layer3.svg",
+      "mtime": "2025-10-14 17:38:37",
+      "size": 135982
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/北京CBD/paths/corridor_beijing_h140_theta270.svg",
+      "mtime": "2025-10-14 17:38:37",
+      "size": 135982
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/metrics/metrics_guangzhou_h140_theta270.txt",
+      "mtime": "2025-10-14 17:38:36",
+      "size": 455
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/tensor_fields/diffusion_tensor_guangzhou_h140_theta270.svg",
+      "mtime": "2025-10-14 17:38:36",
+      "size": 105904
+    },
+    {
+      "path": "Reference对照/Fig_3/guangzhou_140m_layer3.svg",
+      "mtime": "2025-10-14 17:38:34",
+      "size": 170020
+    },
+    {
+      "path": "02_多层空域走廊生成实验(Reference_Fig3)/广州珠江新城/paths/corridor_guangzhou_h140_theta270.svg",
+      "mtime": "2025-10-14 17:38:34",
+      "size": 170020
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/metrics/metrics_eastwind.txt",
+      "mtime": "2025-10-14 17:38:32",
+      "size": 440
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/tensor_fields/diffusion_tensor_eastwind.svg",
+      "mtime": "2025-10-14 17:38:32",
+      "size": 142806
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/paths/corridor_eastwind.svg",
+      "mtime": "2025-10-14 17:38:30",
+      "size": 629516
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/metrics/metrics_nowind.txt",
+      "mtime": "2025-10-14 17:38:10",
+      "size": 439
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/tensor_fields/diffusion_tensor_nowind.svg",
+      "mtime": "2025-10-14 17:38:10",
+      "size": 139738
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/paths/corridor_nowind.svg",
+      "mtime": "2025-10-14 17:38:08",
+      "size": 636691
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/metrics/metrics_safety.txt",
+      "mtime": "2025-10-14 17:38:04",
+      "size": 439
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/tensor_fields/diffusion_tensor_safety.svg",
+      "mtime": "2025-10-14 17:38:04",
+      "size": 128759
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/paths/corridor_safety.svg",
+      "mtime": "2025-10-14 17:38:02",
+      "size": 645624
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/metrics/metrics_dense.txt",
+      "mtime": "2025-10-14 17:37:40",
+      "size": 438
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/tensor_fields/diffusion_tensor_dense.svg",
+      "mtime": "2025-10-14 17:37:40",
+      "size": 140116
+    },
+    {
+      "path": "01_基础走廊生成实验(Reference_Table2)/水平走廊/paths/corridor_dense.svg",
+      "mtime": "2025-10-14 17:37:38",
+      "size": 641716
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/metrics/metrics_nit1000.txt",
+      "mtime": "2025-10-14 17:36:42",
+      "size": 440
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/tensor_fields/diffusion_tensor_nit1000.svg",
+      "mtime": "2025-10-14 17:36:42",
+      "size": 75825
+    },
+    {
+      "path": "Reference对照/Fig_5/5g_nit1000.svg",
+      "mtime": "2025-10-14 17:36:40",
+      "size": 547979
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C7-C9_Poisson迭代/paths/corridor_nit1000.svg",
+      "mtime": "2025-10-14 17:36:40",
+      "size": 547979
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/metrics/metrics_N100.txt",
+      "mtime": "2025-10-14 17:34:14",
+      "size": 438
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/tensor_fields/diffusion_tensor_N100.svg",
+      "mtime": "2025-10-14 17:34:14",
+      "size": 74656
+    },
+    {
+      "path": "Reference对照/Fig_5/5a_N100.svg",
+      "mtime": "2025-10-14 17:34:12",
+      "size": 547880
+    },
+    {
+      "path": "03_水平走廊参数敏感性实验(Reference_Fig5)/C1-C3_网格分辨率/paths/corridor_N100.svg",
+      "mtime": "2025-10-14 17:34:12",
+      "size": 547880
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Metrics for _shanghai_h120_theta225
+============================================================
+
+Coverage Rate: 0.450000
+Average Curvature: 0.000599
+Maximum Curvature: 0.005575
+Smoothness Index: 0.999401
+Average Safety Margin: 253.7392
+Minimum Safety Margin: 34.2960
+Number of Corridors: 9
+Total Length: 26610.64
+Average Width: 111.45
+Path Efficiency Ratio: 1.197470
+Computation Time: 1425.91
+
+============================================================

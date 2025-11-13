@@ -1,0 +1,10 @@
+# 边界一致性测试结果 - N=40, BC=current
+Grid_N: 40
+BC_Type: current
+max_un: 7.892587e-04
+mean_un: 3.064174e-04
+L2_un: 3.336828e-04
+max_un_after: 0.000000e+00
+mean_un_after: 0.000000e+00
+L2_un_after: 0.000000e+00
+num_wall_points: 34

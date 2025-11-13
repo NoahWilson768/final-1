@@ -1,0 +1,16 @@
+Metrics for _nit1000
+============================================================
+
+Coverage Rate: 1.000000
+Average Curvature: 0.002007
+Maximum Curvature: 0.024646
+Smoothness Index: 0.997993
+Average Safety Margin: 154.6476
+Minimum Safety Margin: 15.9176
+Number of Corridors: 25
+Total Length: 67392.37
+Average Width: 98.39
+Path Efficiency Ratio: 1.049388
+Computation Time: 23.36
+
+============================================================
